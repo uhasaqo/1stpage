@@ -56,7 +56,7 @@ body    {
 }
 
 .content {
-  /* letter-spacing: ; */
+  letter-spacing: 8px;
   /* Text may be inflated in this exact proportion */
   color: rgb(255, 255, 255);
   font-size:smaller;
